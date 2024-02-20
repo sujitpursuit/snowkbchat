@@ -1,0 +1,10 @@
+pypdf
+langchain==0.1.6
+langchain-community==0.0.19
+langchain-core==0.1.23
+langchain-openai==0.0.6
+streamlit==1.31.1
+faiss-cpu==1.7.4
+azure-storage-blob
+unstructured[pdf]
+python-dotenv
